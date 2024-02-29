@@ -1,0 +1,6 @@
+http:// {
+    log
+    route {
+	    forward_proxy
+    }
+}
